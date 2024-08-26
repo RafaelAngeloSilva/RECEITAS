@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "titulo": "Bolo de Chocolate",
+      "ingredientes": ["Farinha", "Açúcar", "Cacau", "Ovos", "Leite"],
+      "modoPreparo": "Misture todos os ingredientes e asse por 30 minutos."
+    },
+    {
+      "id": 2,
+      "titulo": "Macarrão à Carbonara",
+      "ingredientes": ["Macarrão", "Ovos", "Queijo", "Bacon"],
+      "modoPreparo": "Cozinhe o macarrão e misture com os outros ingredientes."
+    }
+  ]
+  
